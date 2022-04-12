@@ -14,6 +14,6 @@
 
 ### 7. React Stripe.js를 이용해서 Application에서 보안 결제 기능을 빠르고 쉽게 구현 할 수 있도록 함
 
-### 7. Netlify를 이용해서 배포
+### 8. Netlify를 이용해서 배포
 
 https://nike-ecommercejs.netlify.app
